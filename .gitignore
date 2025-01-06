@@ -29,3 +29,4 @@ cypress/reports/
 coverage/
 
 .nyc_output
+.vscode/
